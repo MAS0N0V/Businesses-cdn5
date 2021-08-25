@@ -1,0 +1,8 @@
+.masonov-hide {
+  opacity: 0;
+  transition: all ease 0.8s;
+}
+ 
+.masonov-hide:hover {
+  opacity: 1;
+}
